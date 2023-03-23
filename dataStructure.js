@@ -278,3 +278,9 @@
 // console.log(list.tail.data);
 // console.log(list.tail.prev.data);
 // console.log(list.tail.prev.prev.data);
+
+// let zaka = ["Muhammad", "Nurfatkhur"];
+
+// zaka.push("Rahman");
+// zaka.pop(2);
+// console.log(zaka);
